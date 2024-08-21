@@ -1,4 +1,4 @@
-[![Multi-Modality](agorabanner.png)](https://discord.com/servers/agora-999382051935506503)
+[![Multi-Modality](swarms_logo.png)](https://discord.com/servers/agora-999382051935506503)
 
 # Swarms CookBook
 
