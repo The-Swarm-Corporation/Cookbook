@@ -1,9 +1,3 @@
-[![Multi-Modality](swarms_logo.png)](https://discord.com/servers/agora-999382051935506503)
-
-# Swarms CookBook
-
-Example code and guides for accomplishing common tasks with the [Swarms Framework](https://docs.swarms.world)  To run these examples, you'll need an OpenAI account and associated API key or an API key from your designated provider like Anthropic, Gemini, etc or you can leverage your own local models! Set an environment variable called `OPENAI_API_KEY` with your API key. Alternatively, in most IDEs such as Visual Studio Code, you can create an `.env` file at the root of your repo containing `OPENAI_API_KEY=<your API key>`, which will be picked up by the notebooks.
-
 # Swarms Cookbook Examples Index
 
 This index provides a categorized list of examples and tutorials for using the Swarms Framework across different industries. Each example demonstrates practical applications and implementations using the framework.
@@ -55,21 +49,10 @@ This index provides a categorized list of examples and tutorials for using the S
 | 📺 YouTube | [Swarms Channel](https://www.youtube.com/channel/UC9yXyitkbU_WSy7bd_41SqQ) | Tutorials and demos |
 | 🎫 Events | [Sign up here](https://lu.ma/5p2jnc2v) | Join our community events |
 
-
-
 ## Contributing
 
-The Swarms Cookbook is a community-driven resource. Whether you're submitting an idea, fixing a typo, adding a new guide, or improving an existing one, your contributions are greatly appreciated!
+We welcome contributions! If you have an example or tutorial you'd like to add, please check our [contribution guidelines](https://github.com/The-Swarm-Corporation/Cookbook/blob/main/CONTRIBUTING.md).
 
-Before contributing, read through the existing issues and pull requests to see if someone else is already working on something similar. That way you can avoid duplicating efforts.
+## License
 
-If there are examples or guides you'd like to see, feel free to suggest them on the [issues page](https://github.com/The-Swarm-Corporation/Cookbook/issues).
-
-If you'd like to contribute new content, make sure to read through our [contribution guidelines](/CONTRIBUTING.md). We welcome high-quality submissions of new examples and guides, as long as they meet our criteria and fit within the scope of the cookbook.
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=468576060&machine=basicLinux32gb&location=EastUs)
-
-
-# License 
-
-MIT
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/The-Swarm-Corporation/Cookbook/blob/main/LICENSE) file for details. 
